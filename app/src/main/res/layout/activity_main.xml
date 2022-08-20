@@ -60,7 +60,6 @@
         android:id="@+id/img_medicina"
         android:layout_width="202dp"
         android:layout_height="163dp"
-        android:background="@drawable/medicamento"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.464"
